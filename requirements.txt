@@ -1,0 +1,4 @@
+agno[google]
+lancedb
+tantivy
+python-dotenv
